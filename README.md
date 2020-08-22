@@ -1,7 +1,7 @@
 # Welcome to the open Adobe Analytics Components repository!
-This is a public repository containing components for Adobe Analytics, like Calculated Metrics or Segments, to serve as reference or inspiration for everyone to use.
+This is a public repository containing components for Adobe Analytics, like Calculated Metrics or Segments, to serve as reference or inspiration for everyone to use. I initially created this to keep track of all the segments and metrics I create for [my blog fullstackanalyst.io](https://www.fullstackanalyst.io?r=g).
 
-Feel free to check out the lists and topic pages. You are also very welcome to contribute anything that might be helpful to others. Checkout the guide below to get instructions on [how to contribute](#how-to-contribute)!
+Feel free to check out the lists and topic pages. You are also very welcome to contribute anything that might be helpful to others. Check out the guide below to get [instructions on how to contribute](#how-to-contribute)!
 
 # Lists and Folders
 * [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
@@ -16,6 +16,6 @@ You can contribute to this list in a lot of ways, for example
 * Spread the word about this repo and get others to contribute!
 
 ## Steps to contribute
-1. If you have an addition (like a new Segment or Metric) please make sure it does not exist already
+1. If you have an addition (like a new Segment or Metric) please make sure it does not exist already. You can open an issue if you have any remarks or comments.
 2. If you have to add something new, please use the contribution template in the respective folders for your component. Put screenshots in the res folders, named after your metric or segment. Ideally, you would also include the API definition of your component to make it easier for others to use, but that is optional.
 3. Open a Pull Request for you addition. If you add a component, make sure you also include it on the lists and tags
