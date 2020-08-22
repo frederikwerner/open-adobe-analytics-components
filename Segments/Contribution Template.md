@@ -11,7 +11,7 @@ Description and author
 * Screenshots of your segment in action, like in a table or graph
 
 ## Dependencies
-* Other segment used
+* Other segments used
 
 ## Functions
 * Functions used in your segment
