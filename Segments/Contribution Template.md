@@ -22,4 +22,4 @@ Description and author
 ## Definitions
 ### Screenshot of segment overview
 ### Screenshot of segment builder
-### API defintion of segment
+### API definition of segment

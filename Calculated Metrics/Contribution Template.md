@@ -22,4 +22,4 @@ Description and author
 ## Definitions
 ### Screenshot of metric overview
 ### Screenshot of metric builder
-### API defintion of metric
+### API definition of metric

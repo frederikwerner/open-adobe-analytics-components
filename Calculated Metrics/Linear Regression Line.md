@@ -15,7 +15,7 @@ This metric gives you a simple Linear Regression Line to approximate your actual
 * [Simple Incrementor](Simple%20Incrementor.md) metric for X Axis variable
 
 ## Used Functions
-Linear Regresssion: Predicted Y
+Linear Regression: Predicted Y
 
 ## Tags
 Statistics, Regression, Trend, Time Series Analysis
@@ -25,7 +25,7 @@ Statistics, Regression, Trend, Time Series Analysis
 ![Metric Summary](res/linearregressionline1.png)
 ### Screenshot of metric builder
 ![Metric Builder](res/linearregressionline2.png)
-### API defintion of metric
+### API definition of metric
 ```json
 {
     "definition":{
