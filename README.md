@@ -7,4 +7,11 @@ Feel free to check out the lists and topic pages. You are also very welcome to c
 * Calculated Metrics
 * Segments
 
+# Ways to contribute
+* Add new Metrics or Segments
+* Do some documentation on existing components by adding examples, screenshots or business questions
+* Add tags or list pages
+* Spread the word about this repo!
+
 # How to contribute
+* If you have an addition (like a new Segment or Metric) please make sure it does not exist already
