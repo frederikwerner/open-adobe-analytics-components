@@ -13,7 +13,7 @@ Description and author
 ## Dependencies
 * Other calculated metrics or segments used
 
-## Functions
+## Used Functions
 * Functions used in your metric
 
 ## Tags

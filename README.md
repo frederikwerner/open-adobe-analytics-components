@@ -17,5 +17,5 @@ You can contribute to this list in a lot of ways, for example
 
 ## Steps to contribute
 1. If you have an addition (like a new Segment or Metric) please make sure it does not exist already
-2. If you have to add something new, please use the contribution template in the respective folders for your component. Put screenshots in the res folders.
+2. If you have to add something new, please use the contribution template in the respective folders for your component. Put screenshots in the res folders, named after your metric or segment. Ideally, you would also include the API definition of your component to make it easier for others to use, but that is optional.
 3. Open a Pull Request for you addition. If you add a component, make sure you also include it on the lists and tags
