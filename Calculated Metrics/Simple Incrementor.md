@@ -19,7 +19,7 @@ This metric was created to serve as the X variable on Time Series Analysis metri
 ### Screenshot of metric builder
 ![Metric Builder](res/simpleincrementor3.png)
 ### API definition of metric
-```json
+```yaml
 {
     "definition":{
         "formula":{

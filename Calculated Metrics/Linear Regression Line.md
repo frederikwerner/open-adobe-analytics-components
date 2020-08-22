@@ -26,7 +26,7 @@ Statistics, Regression, Trend, Time Series Analysis
 ### Screenshot of metric builder
 ![Metric Builder](res/linearregressionline2.png)
 ### API definition of metric
-```json
+```yaml
 {
     "definition":{
         "formula":{
