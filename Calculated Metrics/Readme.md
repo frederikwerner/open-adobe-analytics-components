@@ -1,0 +1,3 @@
+# List of Calculated Metrics
+[Linear Regression Line Metric](Calculated%20Metrics/Linear%20Regression%20Line.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+[Simple Incrementor Metric](Calculated%20Metrics/Simple%20Incrementor.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
