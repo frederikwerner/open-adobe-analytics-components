@@ -1,12 +1,14 @@
 # Welcome to the Open Adobe Analytics Components Repository!
-This is a public repository containing components for Adobe Analytics, like Calculated Metrics or Segments, to serve as reference or inspiration for everyone to use. I initially created this to keep track of all the segments and metrics I create for [my blog fullstackanalyst.io](https://www.fullstackanalyst.io?r=g).
+This is a public repository containing components for Adobe Analytics, like Calculated Metrics or Segments, to serve as reference or inspiration for everyone to use. I initially created this to keep track of all the segments and metrics I create for [my blog fullstackanalyst.io](https://www.fullstackanalyst.io?r=g). You can go to [this post](https://www.fullstackanalyst.io/blog/adobe-analytics/call-for-contributions-introducing-the-open-adobe-analytics-component-repository/?r=g) to learn more about the initiative.
 
 Feel free to check out the lists and topic pages. You are also very welcome to contribute anything that might be helpful to others. Check out the guide below to get [instructions on how to contribute](#how-to-contribute)!
 
 # Lists and Folders
-* [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
-* [Segments](Segments/List%20of%20Segments.md)
-* [Tags](Tags.md)
+* Folders
+** [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
+** [Segments](Segments/List%20of%20Segments.md)
+* Lists
+** [Tags](Tags.md)
 
 # How to contribute
 You can contribute to this list in a lot of ways, for example
