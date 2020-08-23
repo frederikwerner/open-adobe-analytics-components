@@ -5,10 +5,10 @@ Feel free to check out the lists and topic pages. You are also very welcome to c
 
 # Lists and Folders
 * Folders
-** [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
-** [Segments](Segments/List%20of%20Segments.md)
+  * [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
+  * [Segments](Segments/List%20of%20Segments.md)
 * Lists
-** [Tags](Tags.md)
+  * [Tags](Tags.md)
 
 # How to contribute
 You can contribute to this list in a lot of ways, for example
