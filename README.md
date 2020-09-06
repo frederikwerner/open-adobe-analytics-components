@@ -11,7 +11,7 @@ Feel free to check out the lists and topic pages. You are also very welcome to c
   * [Tags](Tags.md)
 
 # How to contribute
-You can contribute to this list in a lot of ways, for example
+You can contribute to this collection in a lot of ways, for example
 * Add new Metrics or Segments
 * Do some documentation on existing components by adding examples, screenshots or business questions
 * Add tags or list pages

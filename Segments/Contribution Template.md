@@ -20,6 +20,5 @@ Description and author
 * Tags
 
 ## Definitions
-### Screenshot of segment overview
 ### Screenshot of segment builder
 ### API definition of segment
