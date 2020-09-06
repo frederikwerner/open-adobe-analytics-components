@@ -1,4 +1,4 @@
-# ![](https://www.frederikwerner.de/wp-content/uploads/sites/2/2020/04/cropped-android-chrome-512x512-1-32x32.png)Welcome to the Open Adobe Analytics Components Repository!
+# ![](https://www.frederikwerner.de/wp-content/uploads/sites/2/2020/04/cropped-android-chrome-512x512-1-32x32.png) Welcome to the Open Adobe Analytics Components Repository!
 This is a public repository containing components for Adobe Analytics, like Calculated Metrics or Segments, to serve as reference or inspiration for everyone to use. I initially created this to keep track of all the segments and metrics I create for [my blog fullstackanalyst.io](https://www.fullstackanalyst.io?r=g). You can go to [this post](https://www.fullstackanalyst.io/blog/adobe-analytics/call-for-contributions-introducing-the-open-adobe-analytics-component-repository/?r=g) to learn more about the initiative.
 
 Feel free to check out the lists and topic pages. You are also very welcome to contribute anything that might be helpful to others. Check out the guide below to get [instructions on how to contribute](#how-to-contribute)!
