@@ -1,2 +1,5 @@
 # List of Segments
-Nothing here yet! Be the first to contribute!
+* [Returning First Time Visitors Segment](Returning%20First%20Time%20Visitors.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [Returning First Time Visitors with time restriction Segment](Returning%20First%20Time%20Visitors%20with%20time%20restriction.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [Sequential Retained Visitors Segment](Sequential%20Retained%20Visitors.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [Simple Retained Visitors Segment](Simple%20Retained%20Visitors.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)

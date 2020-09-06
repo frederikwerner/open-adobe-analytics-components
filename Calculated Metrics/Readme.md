@@ -1,3 +1,5 @@
 # List of Calculated Metrics
-* [Linear Regression Line Metric](Calculated%20Metrics/Linear%20Regression%20Line.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
-* [Simple Incrementor Metric](Calculated%20Metrics/Simple%20Incrementor.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [Linear Regression Line Metric](Linear%20Regression%20Line.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [New User Retention Rate Metric](New%20User%20Retention%20Rate.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [New User Retention Rate with time restriction Metric](New%20User%20Retention%20Rate%20with%20time%20restriction.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
+* [Simple Incrementor Metric](Simple%20Incrementor.md). Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
