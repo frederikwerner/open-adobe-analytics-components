@@ -1,4 +1,4 @@
-# Returning First Time Visitors
+# Returning First Time Visitors with time restriction
 Segment to return all Hits from Visitors who had both their first and second Visit within a defined time window in a given Date Range. "Within 1 day" restriction can be changed to any interval as needed. Created by [frederikwerner](https://github.com/frederikwerner) for [fullstackanalyst.io](https://www.fullstackanalyst.io/?r=g)
 
 ## Usage examples
