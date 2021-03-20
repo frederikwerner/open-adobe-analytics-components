@@ -5,22 +5,22 @@ Feel free to check out the lists and topic pages. You are also very welcome to c
 
 # Lists and Folders
 * Folders
-  * [Calculated Metrics](Calculated%20Metrics/List%20of%20Calculated%20Metrics.md)
-  * [Segments](Segments/List%20of%20Segments.md)
+  * [Calculated Metrics](Calculated%20Metrics/Readme.md)
+  * [Segments](Segments/Readme.md)
 * Lists
   * [Tags](Tags.md)
 
 # How to contribute
-You can contribute to this collection in a lot of ways, for example
+You can contribute to this collection in a lot of ways, for example:
 * Add new Metrics or Segments
 * Do some documentation on existing components by adding examples, screenshots or business questions
 * Add tags or list pages
 * Spread the word about this repo and get others to contribute!
 
 ## Steps to contribute
-1. If you have an addition (like a new Segment or Metric) please make sure it does not exist already. You can open an issue if you have any remarks or comments.
-2. If you have to add something new, please use the contribution template in the respective folders for your component. Put screenshots in the res folders, named after your metric or segment. Ideally, you would also include the API definition of your component to make it easier for others to use, but that is optional.
-3. Open a Pull Request for you addition. If you add a component, make sure you also include it on the lists and tags
+1. If you have an addition (like a new Metric or Segment), please make sure it does not exist already. You can open an issue if you have any remarks or comments.
+2. If you want to add something new, please use the contribution template in the respective folders for your component. Put screenshots in the `res` folders, named after your Metric or Segment. Ideally, you would also include the API definition of your component to make it easier for others to use, but that is optional.
+3. Open a Pull Request for your addition. If you add a component, make sure you also include it in the lists and tags.
 
 # Disclaimer
 Neither I nor this repository are in any way affiliated to Adobe. All trademarks belong to their owners.
